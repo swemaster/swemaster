@@ -1,4 +1,3 @@
-
 ![](https://komarev.com/ghpvc/?username=swemaster&color=brightgreen)
 
 <h3 align="center">Skillset</h3>
@@ -26,3 +25,7 @@
 <a href="https://www.gerritcodereview.com/" target="_blank" rel="noreferrer"> <img src="https://www.gerritcodereview.com/images/diffy_logo.png" alt="gerrit" width="40" height="40"/> </a>
 <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
 </p>
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=swemaster&count_private=true&theme=tokyonight&showicons=true)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swemaster&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
