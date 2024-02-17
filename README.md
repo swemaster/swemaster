@@ -1,5 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=swemaster)
+![](https://komarev.com/ghpvc/?username=swemaster&color=brightgreen)
 
 <h3 align="center">Skillset</h3>
 <p align="center">
